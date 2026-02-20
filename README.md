@@ -1,6 +1,6 @@
-# SpecTra-Net: Unified Spatiotemporal Learning for High-Activity Regimes
+# SpecTra-Net
 
-**SpecTra-Net** is a PyTorch framework for spatiotemporal forecasting in complex, high-activity regimes. It supports both **grid** (`T,H,W,C`) and **node** (`T,N,C`) inputs through a unified pipeline, and combines spectral-temporal conditioning with optimal-transport-based spatial alignment.
+**SpecTra-Net** is a PyTorch framework for spatiotemporal forecasting in complex network. It supports both **grid** (`T,H,W,C`) and **node** (`T,N,C`) inputs through a unified pipeline, and combines spectral-temporal conditioning with optimal-transport-based spatial alignment.
 
 ---
 
