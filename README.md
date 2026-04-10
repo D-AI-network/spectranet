@@ -12,8 +12,8 @@
 2. **T-Gating (Temporal Gating)**  
    Learns temporal importance weights and adaptively emphasizes change-sensitive time steps.
 
-3. **GOT (Geometric Optimal Transport)**  
-   Learns global spatial alignment via prototypes and transport plans using geometry (and optional embedding distance).
+3. **GAP (Graph Prototype Alignment)**  
+   Learns global spatial alignment via prototypes using geometry and embedding distance.
 
 4. **MGAT (Multi-Graph Attention)**  
    Refines spatial representations on a KNN graph with anisotropic, scale-aware attention.
