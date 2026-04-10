@@ -129,7 +129,7 @@ PERIODS: periodic embedding periods (default [48, 168])
 
 Spatial
 
-USE_GOT, N_PROTO, GOT_EPS, GOT_TAU, GOT_USE_EMB_DIST
+USE_GAP, N_PROTO, GOT_EPS, GOT_TAU, GOT_USE_EMB_DIST
 
 USE_MGAT, DLAK_K, MGAT_R0
 
